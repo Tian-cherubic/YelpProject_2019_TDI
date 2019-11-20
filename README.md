@@ -6,20 +6,31 @@ Whenever I need recommendations for restaurants, I YELP. However, it takes a lot
 Outline
 
 1, Import and explore Data
+
 1a. read in yelp business data
+
 1b. read in yelp user review data
+
 1c. Filter the yelp business, only select Chinese Restaurant business
+
 1d. Merge the chinese restaurant business dataframe with the customer review dataframe
 
 2, Present customer review data using Word Clouds
+
 2a. Review text preprocessing, clean reviews
+
 2b. Word Clouds for Chinese Restaurants
 
 3, New features (positive review rate for restaurant) to help user choose restaurant using Sentiment Analysis
+
 3a. Clean Reviews and Review Sentiment Analysis
+
 3b. Calculate the positive review ratio for Chinese restaurant
+
 3c. Explore the relationship between restaurant "stars" rating and positive review ratio
 
 4, Restaurant recommender system
+
 4a. Recommender algorithm
+
 4b. Recommendation generation: obtain a restaurant list for a given user
