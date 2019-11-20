@@ -15,11 +15,13 @@ Outline
 
 1d. Merge the chinese restaurant business dataframe with the customer review dataframe
 
+
 2, Present customer review data using Word Clouds
 
 2a. Review text preprocessing, clean reviews
 
 2b. Word Clouds for Chinese Restaurants
+
 
 3, New features (positive review rate for restaurant) to help user choose restaurant using Sentiment Analysis
 
@@ -28,6 +30,7 @@ Outline
 3b. Calculate the positive review ratio for Chinese restaurant
 
 3c. Explore the relationship between restaurant "stars" rating and positive review ratio
+
 
 4, Restaurant recommender system
 
